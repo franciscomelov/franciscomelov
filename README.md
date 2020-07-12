@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm in the process of learning programimng and web development 
+I'm in the process of learning programming and web development 
 
 
 
