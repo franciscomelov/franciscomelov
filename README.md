@@ -29,6 +29,6 @@ Here are some ideas to get you started:
  
 
 - 🔭 I’m currently working on:
-    -Leraning Python.
-    -Traduciendo algunos articulos en Freecodecamp[Puedes leerlo aqui](https://www.freecodecamp.org/espanol/news/author/franciscomelov/)
+    - Leraning Python.
+    - Traduciendo algunos articulos en Freecodecamp - [Puedes leerlo aqui](https://www.freecodecamp.org/espanol/news/author/franciscomelov/)
    
