@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm in the process of learning programming and web development 
+I'm in the process of learning Python. 
 
 
 
@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 - 🌱 I’m currently learning HTML - CSS - JAVASCRIPT -PYTHON on:
     - [Freecodecamp curriculum](https://www.freecodecamp.org/franciscomelov)
     - [Platzi](https://platzi.com/@franciscomelov/)
@@ -24,4 +26,9 @@ Here are some ideas to get you started:
    - [Portfolio](https://franciscomelov.netlify.app/)
    - [Twitter](https://twitter.com/francisco_melov)
    - [linkedin](https://www.linkedin.com/in/franciscoecatlmelovalle/)
+ 
+
+- 🔭 I’m currently working on:
+    -Leraning Python.
+    -Traduciendo algunos articulos en Freecodecamp[Puedes leerlo aqui](https://www.freecodecamp.org/espanol/news/author/franciscomelov/)
    
