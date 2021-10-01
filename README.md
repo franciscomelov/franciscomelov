@@ -8,7 +8,6 @@ I'm in the process of learning Python.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -30,5 +29,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on:
     - Leraning Python.
-    - Traduciendo algunos articulos en Freecodecamp - [Puedes leerlo aqui](https://www.freecodecamp.org/espanol/news/author/franciscomelov/)
+    - Traduciendo algunos articulos en Freecodecamp - [Puedes leerlos aqui](https://www.freecodecamp.org/espanol/news/author/franciscomelov/)
    
