@@ -32,5 +32,5 @@ Here are some ideas to get you started:
     - Traduciendo algunos articulos en Freecodecamp - [Puedes leerlos aqui](https://www.freecodecamp.org/espanol/news/author/franciscomelov/)
     
     ### Úlito artículo 
-    [Que es HTML – Definición y significado de lenguaje de marcado de hipertexto](https://www.freecodecamp.org/espanol/news/que-es-html-definicion-y-significado-de-lenguaje-de-marcado-de-hipertexto/)
+    [Como aprobar las certificaciones en Java de Oracle: una guía práctica para desarrolladores](https://www.freecodecamp.org/espanol/news/como-aprobar-las-certificaciones-en-java-de-oracle-una-guia-practica-para-desarrolladores/)
    
