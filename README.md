@@ -32,5 +32,5 @@ Here are some ideas to get you started:
     - Traduciendo algunos articulos en Freecodecamp - [Puedes leerlos aqui](https://www.freecodecamp.org/espanol/news/author/franciscomelov/)
     
     ### Úlito artículo 
-    [Como aprobar las certificaciones en Java de Oracle: una guía práctica para desarrolladores](https://www.freecodecamp.org/espanol/news/como-aprobar-las-certificaciones-en-java-de-oracle-una-guia-practica-para-desarrolladores/)
+    [Scripts de automatización en Python que debes saber](https://www.freecodecamp.org/espanol/news/scripts-de-automatizacion-en-python-que-debes-saber/)
    
