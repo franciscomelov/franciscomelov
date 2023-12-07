@@ -33,4 +33,10 @@ Here are some ideas to get you started:
     
     ### Úlito artículo 
     [Scripts de automatización en Python que debes saber](https://www.freecodecamp.org/espanol/news/scripts-de-automatizacion-en-python-que-debes-saber/)
+
+
+
+[![TRYHACKME](https://tryhackme-badges.s3.amazonaws.com/franciscomelov.png)](./TRYHACKME)
+
+
    
