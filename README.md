@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 
-[![TRYHACKME](https://tryhackme-badges.s3.amazonaws.com/franciscomelov.png)](./TRYHACKME)
+ ![Try Hack Me - Rank](https://tryhackme-badges.s3.amazonaws.com/franciscomelov.png)
 
 
    
