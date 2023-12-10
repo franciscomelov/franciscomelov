@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 
- ![Try Hack Me - Rank](https://tryhackme-badges.s3.amazonaws.com/franciscomelov.png)
+
  
 
 
