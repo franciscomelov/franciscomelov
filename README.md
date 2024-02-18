@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     - Traduciendo algunos articulos en Freecodecamp - [Puedes leerlos aqui](https://www.freecodecamp.org/espanol/news/author/franciscomelov/)
     
     ### Úlito artículo 
-    [Scripts de automatización en Python que debes saber](https://www.freecodecamp.org/espanol/news/scripts-de-automatizacion-en-python-que-debes-saber/)
+    [Operaciones CRUD – ¿Qué es CRUD?](https://www.freecodecamp.org/espanol/news/operaciones-crud-que-es-crud/)
 
  ![Try Hack Me - My Rank](https://tryhackme-badges.s3.amazonaws.com/franciscomelov.png)
 
