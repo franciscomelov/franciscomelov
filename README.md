@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     - Traduciendo algunos articulos en Freecodecamp - [Puedes leerlos aqui](https://www.freecodecamp.org/espanol/news/author/franciscomelov/)
     
     ### Úlito artículo 
-    [Operaciones CRUD – ¿Qué es CRUD?](https://www.freecodecamp.org/espanol/news/operaciones-crud-que-es-crud/)
+    [aprende-matematicas-fundamentales-en-freecodecamp-cursos](https://www.freecodecamp.org/espanol/news/aprende-matematicas-fundamentales-en-freecodecamp-cursos-interactivos-de-matematicas-version-beta/)
 
  ![Try Hack Me - My Rank](https://tryhackme-badges.s3.amazonaws.com/franciscomelov.png)
 
